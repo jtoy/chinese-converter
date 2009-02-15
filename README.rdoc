@@ -1,0 +1,8 @@
+= ChineseConverter
+
+Convert Unicode Simplified to Traditional and vice-versa
+
+= Example
+
+
+Copyright (c) 2008 Jason Toy, released under the MIT license
